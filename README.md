@@ -18,6 +18,7 @@
 
 - https://github.com/sobolevn/awesome-cryptography
 - https://roadmap.sh/cyber-security
+- [AES in C explained](https://github.com/pierreroth64/githublog-from-francisrstokes/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
 
 ## Online courses
 
