@@ -12,7 +12,7 @@
 ## Books 📘
 
 - [guide des mécanismes cryptographiques (anssi)](https://cyber.gouv.fr/sites/default/files/2021/03/anssi-guide-mecanismes_crypto-2.04.pdf)
-- [Crypto101](https://raw.githubusercontent.com/crypto101/crypto101.github.io/master/Crypto101.pdf) - generated from https://www.crypto101.io/
+- [Crypto101](https://raw.githubusercontent.com/crypto101/crypto101.github.io/master/Crypto101.pdf) - generated from https://www.crypto101.io/ (and related [conf](https://www.youtube.com/watch?v=3rmCGsCYJF8&ab_channel=NextDayVideo))
 
 ## Pointers
 
