@@ -26,6 +26,8 @@
 - [Modes of Operation - Computerphile](https://www.youtube.com/watch?v=Rk0NIQfEXBA&ab_channel=Computerphile)
 - [AES GCM (Advanced Encryption Standard in Galois Counter Mode) - Computerphile](https://www.youtube.com/watch?v=-fpVv_T4xwA&ab_channel=Computerphile)
 - [EXTRA BITS - AES GCM Maths Bit - Computerphile](https://www.youtube.com/watch?v=7OZyHzYFSgI&ab_channel=Computerphile)
+- [Diffie Hellman - the Mathematics bit- Computerphile]( https://www.youtube.com/watch?v=Yjrfm_oRO0w&ab_channel=Computerphile)
+- [Elliptic Curves - Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE&ab_channel=Computerphile)
 
 ## Online courses
 
